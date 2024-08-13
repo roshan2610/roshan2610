@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Patil</h1>
-<h3 align="center">A passionate DevOps/DevOps Enthusiast from India</h3>
+<h3 align="center">A passionate DevOps/DevOps Enthusiast</h3>
 
 <img align= "right" alt="cloud" width="400" src="https://never-stop-learning.de/wp-content/uploads/2023/06/AWS-Cloud9-800x576.png">
 
