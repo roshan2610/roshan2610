@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **roshandpatil07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14OE0SlbQPfGkTsaK-bRpO8zsuddKFqkQ/view?usp=sharing](https://drive.google.com/file/d/14OE0SlbQPfGkTsaK-bRpO8zsuddKFqkQ/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1CSdwvGdFLlG4zmLtpzLHKI6Tqwr9Alv4/view?usp=sharing)
+
+- ✍️ To access my blogs visit here [BLOGS](https://roshanp.hashnode.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
